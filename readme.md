@@ -38,6 +38,6 @@
 * 对不同的行为进行加权
 
 ## 相似度计算方法
-* 同现相似度 <img width='210px',height='57px',src = '/imgs/常见函数分布.jpg'>
+* 同现相似度 <img width='210px',height='57px',src='/imgs/5.jpg'>
 
 * 
