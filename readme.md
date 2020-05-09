@@ -2,6 +2,7 @@
 
 ## 概率论
 <img src = '/imgs/常见函数分布.jpg'>
+	
 ### 极大似然估计
 极大似然估计提供了一种给定观察数据来评估模型参数的方法，通过观察若干实验结果，得到某组能使样本出现的最大概率的参数值。
 
@@ -16,10 +17,11 @@
 * 后排模块：需要对排序列表进行调整，如运营干预、优先级调权、指定下发规则。
 
 常见召回算法：
-<img src='/imgs/常见召回模型.jpg'>
+<img src='https://github.com/xyb1996/learn_notes/blob/master/imgs/常见召回模型.jpg'>
 
 常见排序算法：
-<img src='/imgs/3.jpg'>
-<img src='/imgs/4.jpg'>
+<img src='https://github.com/xyb1996/learn_notes/blob/master/imgs/3.jpg'>
+<img src='https://github.com/xyb1996/learn_notes/blob/master/imgs/4.jpg'>
 
+	
 	
