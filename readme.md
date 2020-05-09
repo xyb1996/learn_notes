@@ -1,7 +1,7 @@
 # 第一章数学基础
 
 ## 概率论
-<img src = '/imgs/常见函数分布.jpg'{:width="750px"}>
+<img src = '/imgs/常见函数分布.jpg',width=750px>
 	
 ### 极大似然估计
 极大似然估计提供了一种给定观察数据来评估模型参数的方法，通过观察若干实验结果，得到某组能使样本出现的最大概率的参数值。
@@ -20,6 +20,6 @@
 ![](https://github.com/xyb1996/learn_notes/blob/master/imgs/常见召回模型.jpg){:width="750px"}
 
 常见排序算法：
-![](https://github.com/xyb1996/learn_notes/blob/master/imgs/3.jpg{:width="750px"})
-![](https://github.com/xyb1996/learn_notes/blob/master/imgs/4.jpg{:width="750px"})
+![](https://github.com/xyb1996/learn_notes/blob/master/imgs/3.jpg){:width="750px"}
+![](https://github.com/xyb1996/learn_notes/blob/master/imgs/4.jpg){:width="750px"}
 
