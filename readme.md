@@ -17,11 +17,11 @@
 * 后排模块：需要对排序列表进行调整，如运营干预、优先级调权、指定下发规则。
 
 常见召回算法：
-<img src='https://github.com/xyb1996/learn_notes/blob/master/imgs/常见召回模型.jpg'>
+![](https://github.com/xyb1996/learn_notes/blob/master/imgs/常见召回模型.jpg)
 
 常见排序算法：
-<img src='https://github.com/xyb1996/learn_notes/blob/master/imgs/3.jpg'>
-<img src='https://github.com/xyb1996/learn_notes/blob/master/imgs/4.jpg'>
+![](https://github.com/xyb1996/learn_notes/blob/master/imgs/3.jpg)
+![](https://github.com/xyb1996/learn_notes/blob/master/imgs/4.jpg)
 
 	
 	
