@@ -18,12 +18,12 @@
 
 常见召回算法：
 ![]
-(https://github.com/xyb1996/learn_notes/blob/master/imgs/常见召回模型.jpg)
+(https://github.com/xyb1996/learn_notes/raw/master/imgs/常见召回模型.jpg)
 
 常见排序算法：
 ![]
-(https://github.com/xyb1996/learn_notes/blob/master/imgs/3.jpg)
+(https://github.com/xyb1996/learn_notes/raw/master/imgs/3.jpg)
 ![]
-(https://github.com/xyb1996/learn_notes/blob/master/imgs/4.jpg)
+(https://github.com/xyb1996/learn_notes/raw/master/imgs/4.jpg)
 
 	
